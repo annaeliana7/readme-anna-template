@@ -136,7 +136,7 @@ Give a ⭐️ if you like this project!
 
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
-Thanks to Microverse for the education
+I love you, HaShem and Yeshua 💜 
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
