@@ -38,9 +38,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 ToDo List<a name="about-project"></a>
+# 📖 NAME OF PROJECT<a name="about-project"></a>
 
-**ToDo List** is a project have my coding collaborating partner review my code. I added files from my ToDo repo
+**ToDo List** is a project ...complete sentence
 
 <br>
 
@@ -55,7 +55,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-[To-Do List](https://annaeliana7.github.io/Code-Review-ToDo-List/dist/)
+[To-Do List](https://ADD LINK.git)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -66,9 +66,9 @@
 
 - Open the command prompt in the created directory.
 
-- On the terminal run this command git clone `https://github.com/annaeliana7/Code-Review-ToDo-List.git`
+- On the terminal run this command git clone `https://github.com/annaeliana7/ADD LINK.git`
 
-- Go to the repository folder using command prompt cd `ToDo List`
+- Go to the repository folder using command prompt cd `NAME OF PROJECT`
 
 - Install the dev dependencies for linters run npm install.
 
@@ -89,7 +89,7 @@ Clone this repository to your desired folder:
 
 - Open the command prompt in the created directory.
 
-- On the terminal run this command git clone https://github.com/annaeliana7/Code-Review-ToDo-List.git
+- On the terminal run this command git clone https://ADD LINK.git
 
 - Go to the repository folder using command prompt cd To
 
@@ -123,7 +123,7 @@ Anna Petras
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/annaeliana7/Code-Review-ToDo-List/issues).
+Feel free to check the [issues page](https://ADD LINK.git).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -136,7 +136,7 @@ Give a ⭐️ if you like this project!
 
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
-I love you, HaShem and Yeshua 💜 
+I love you, HaShem (Abba) and Yeshua 💜 
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
