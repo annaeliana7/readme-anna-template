@@ -91,7 +91,7 @@ Clone this repository to your desired folder:
 
 - On the terminal run this command git clone https://ADD LINK.git
 
-- Go to the repository folder using command prompt cd To
+- Go to the repository folder using command prompt cd NAME-OF-FILE
 
 - Install the dev dependencies for linters run npm install.
 --->
@@ -104,7 +104,7 @@ Clone this repository to your desired folder:
 👤 **Author**
 Anna Petras
 
-- GitHub: [@annaeliana](https://github.com/annaeliana7)
+- GitHub: [@annaeliana7](https://github.com/annaeliana7)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -136,7 +136,7 @@ Give a ⭐️ if you like this project!
 
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
-I love you, HaShem (Abba) and Yeshua 💜 
+HaShem (Abba) and Yeshua, I love you! 💜 Thank you!
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
