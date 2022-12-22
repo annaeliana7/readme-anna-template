@@ -49,6 +49,7 @@
     HTML
     CSS
     Javascript (ES6)
+    Linters
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
