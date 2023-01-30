@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
+
   <img src="kefi-Unearthed-5.png" alt="logo" width="280"  height="auto" />
     <h3><b>Anna Petras for KING YESHUA - Kefi Unearthed</b></h3>
   <br/>
