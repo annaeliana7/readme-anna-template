@@ -62,7 +62,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-[To-Do List](https://ADD LINK.git)
+[Name of Project](https://ADD LINK.git)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
