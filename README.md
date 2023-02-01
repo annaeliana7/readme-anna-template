@@ -41,15 +41,15 @@
 
 # 📖 NAME OF PROJECT<a name="about-project"></a>
 
-**ToDo List** is a project ...complete sentence
+**Name of Project** is a project ...complete sentence
 
 <br>
 
 ## 🛠 Built With <a name="built-with"></a>
-    Webpack
     HTML
     CSS
     Javascript (ES6)
+    Webpack
     Linters
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
