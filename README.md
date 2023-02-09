@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <img src="kefi-Unearthed-5.png" alt="logo" width="280"  height="auto" />
+  <img src="assets-README/kefi-Unearthed-5.png" alt="logo" width="280"  height="auto" />
     <h3><b>Anna Petras for KING YESHUA - Kefi Unearthed</b></h3>
   <br/>
 💜
@@ -56,7 +56,7 @@
 
 ## Project Demo Image
 <br>
-<img align="center" src="project_demo.png" alt="logo" width="100%"  height="auto" />
+<img align="center" src="assets-README/project_demo.png" alt="logo" width="100%"  height="auto" />
 
   <br/>
 
@@ -158,10 +158,11 @@ This project is [MIT](./LICENSE) licensed.
 
 <br>
 
+
 <!-- Author's message -->
 
 <div align="center">
-    <img src="kefi-Unearthed-5.png" alt="logo" width="250"  height="auto" />
+    <img src="assets-README/kefi-Unearthed-5.png"  alt="logo" width="250"  height="auto" />
     <h3><b>Anna Petras for KING YESHUA - Kefi Unearthed</b></h3>
 💜
 <br>
