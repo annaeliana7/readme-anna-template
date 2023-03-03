@@ -54,7 +54,7 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Project Demo Image
+## 📷 Project Demo Image
 <br>
 <img align="center" src="assets-README/project_demo.png" alt="logo" width="100%"  height="auto" />
 
